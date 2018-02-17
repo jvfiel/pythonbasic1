@@ -1,8 +1,8 @@
 #Variables
-name = "Shoulder Bag"
-price = 1000
-price_f = 1000.50
-color = 'blue'
+name = "Shoulder Bag" #string/char
+price = 1000 #int
+price_f = 1000.50 #float
+color = 'blue' #same w/ name
 
 #Print
 print("Name: {0}".format(name))

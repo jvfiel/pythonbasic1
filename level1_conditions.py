@@ -9,7 +9,13 @@ elif age == 40:
 else:
     print('exception')
 
-switch = 0
+switch = 0 #boolean
+if switch:
+    print('on!')
+else:
+    print('off!')
+
+switch = True  # boolean
 if switch:
     print('on!')
 else:
